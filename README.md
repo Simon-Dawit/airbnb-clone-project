@@ -33,3 +33,20 @@
 
 ###  Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success in travel and accommodation platforms like StayEase.
+
+### Figma Design Specifications
+ # Color Styles:
+
+ - Primary: #FF5A5F
+ - Secondary: #008489
+ - Background: #FFFFFF
+ - Text: #222222
+ - Secondary Text: #717171
+ # Typography:
+
+ - Primary Font: Circular, Medium (500), 16px
+ - Headings: Circular, Bold (700), 24px-32px
+ - Secondary Text: Circular, Book (400), 14px
+
+### 🎨 Why Design Properties Matter
+Understanding and documenting design properties like color and typography ensures consistency across the app. It helps developers and designers stay aligned, speeds up implementation, and creates a cohesive user experience that feels professional and trustworthy.
